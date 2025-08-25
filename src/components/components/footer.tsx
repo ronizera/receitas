@@ -13,7 +13,7 @@ export function Footer() {
                 <ChefHat className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <h3 className="text-xl font-bold text-foreground">ReceitasDB</h3>
+                <h3 className="text-xl font-bold text-foreground">ReceitasRB</h3>
                 <p className="text-sm text-muted-foreground">Descubra receitas incríveis</p>
               </div>
             </div>
@@ -61,7 +61,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/ronizera/receitas"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors flex items-center gap-1"
@@ -76,8 +76,7 @@ export function Footer() {
 
         <div className="border-t border-border mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © 2024 ReceitasDB. Feito com <Heart className="h-4 w-4 inline text-red-500" fill="currentColor" /> usando
-            v0.
+            © 2024 ReceitasRB. Feito com <Heart className="h-4 w-4 inline text-red-500" fill="currentColor" /> 
           </p>
           <p className="text-muted-foreground text-sm">
             Dados fornecidos por{" "}

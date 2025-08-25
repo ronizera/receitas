@@ -21,7 +21,7 @@ export function Header() {
               <ChefHat className="h-6 w-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-foreground">ReceitasDB</h1>
+              <h1 className="text-2xl font-bold text-foreground">ReceitasRB</h1>
               <p className="text-sm text-muted-foreground hidden sm:block">Descubra receitas incríveis</p>
             </div>
           </Link>
